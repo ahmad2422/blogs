@@ -1,5 +1,5 @@
 ---
-title: "Building a Contact Form in HTML and JavaScript"
+title: "Building a Contact Form in HTML and JavaScript 3.0"
 post_status: "trash"
 post_date: "2025-06-19"
 post_excerpt: "A simple tutorial on building a contact form using HTML and vanilla JavaScript."
