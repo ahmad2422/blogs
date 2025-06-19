@@ -1,15 +1,17 @@
 ---
 title: "Building a Contact Form in HTML and JavaScript"
 post_status: "publish"
-post_date: "2025-06-19 10:30:00"
+post_date: "2025-06-19"
 post_excerpt: "A simple tutorial on building a contact form using HTML and vanilla JavaScript."
 taxonomy:
   category:
     - web-development
     - tutorials
+    - best-practices
   post_tag:
     - HTML
     - JavaScript
+    - cloud
 custom_fields:
   author_name: "Melissa Patenaude"
 featured_image: "_images/contact-form-thumb.jpg"
