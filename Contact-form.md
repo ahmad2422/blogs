@@ -15,7 +15,6 @@ taxonomy:
     - cloud
 custom_fields:
   author_name: "Melissa Patenaude"
-featured_image: "_images/contact-form-thumb.jpg"
 ---
 
 Creating a custom contact form with HTML and JavaScript is a common beginner project that builds foundational frontend skills. In this post, we'll walk through a simple implementation and discuss how to enhance it for production use.
