@@ -1,12 +1,18 @@
 ---
 title: "Building a Contact Form in HTML and JavaScript"
-slug: "contact-form-html-js"
-author: "Melissa Patenaude"
-categories: ["Web Development", "Tutorials"]
-tags: ["HTML", "JavaScript", "Forms", "Frontend"]
-thumbnail: "https://stg-aembit-statging.kinsta.cloud/wp-content/uploads/2025/05/ChatGPT-Image-May-8-2025-02_59_42-PM.png"
-status: "publish"
-date: "2025-06-19 10:30:00"
+post_status: "publish"
+post_date: "2025-06-19 10:30:00"
+post_excerpt: "A simple tutorial on building a contact form using HTML and vanilla JavaScript."
+taxonomy:
+  category:
+    - web-development
+    - tutorials
+  post_tag:
+    - HTML
+    - JavaScript
+custom_fields:
+  author_name: "Melissa Patenaude"
+featured_image: "_images/contact-form-thumb.jpg"
 ---
 
 Creating a custom contact form with HTML and JavaScript is a common beginner project that builds foundational frontend skills. In this post, we'll walk through a simple implementation and discuss how to enhance it for production use.
@@ -26,8 +32,8 @@ Creating a custom contact form with HTML and JavaScript is a common beginner pro
   
   <button type="submit">Send</button>
 </form>
-
-## ⚙️ Step 2: JavaScript to Handle Submission
+```
+## ⚙️ Step 3: JavaScript to Handle Submission
 
 ```javascript
 document.getElementById("contactForm").addEventListener("submit", function(e) {
@@ -42,3 +48,4 @@ document.getElementById("contactForm").addEventListener("submit", function(e) {
   console.log("Form submitted:", data);
   alert("Thanks for contacting us!");
 });
+```
