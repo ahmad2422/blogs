@@ -1,6 +1,6 @@
 ---
-title: "Building a Contact Form in HTML and JavaScript 5.0"
-post_status: "trash"
+title: "Building a Contact Form in HTML and JavaScript 2.0"
+post_status: "publish"
 post_date: "2025-06-19"
 post_excerpt: "A simple tutorial on building a contact form using HTML and vanilla JavaScript."
 featured_image: "_images/devops.png"
