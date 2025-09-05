@@ -1,7 +1,6 @@
 ---
-title: "Test GitHub Post | Javascript variables"
-post_status: publish
-post_date: "2025-08-08"
+title: "Test GitHub Posts"
+post_status: draft
 post_excerpt: "A simple tutorial using HTML and JavaScript."
 taxonomy:
   category:
