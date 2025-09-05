@@ -1,6 +1,6 @@
 ---
 title: "Test GitHub Posts"
-post_status: draft
+post_status: publish
 post_excerpt: "A simple tutorial using HTML and JavaScript."
 taxonomy:
   category:
