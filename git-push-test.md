@@ -12,7 +12,7 @@ taxonomy:
     - JavaScript
     - cloud
 ---
-hello this is just a demoo textt to check the update. 
+hello this is just a demoo textt to check the update. asfasf
 In JavaScripts, **variables** are used to store data that you can reuse and change in your program. The most commonly used keywords to declare variables are `let`, `const`, and `var`.
 
 ## 🧱 Declaring Variables with `let`
