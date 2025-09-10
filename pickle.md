@@ -12,10 +12,7 @@ taxonomy:
     - JavaScript
     - cloud
 ---
+
 hello this Declaring Variables with `let`
 
 The `let` keyword allows you to create a variable that **can be changed** later.
-
-```javascript
-let name = "Alice";
-console.log(name); // Output: 345tfgbdy5tgv
