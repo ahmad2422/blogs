@@ -1,6 +1,6 @@
 ---
 title: "Test pickle"
-post_status: publish
+post_status: draft
 post_excerpt: "A simple tutorial using HTML and JavaScripts."
 taxonomy:
   category:
