@@ -1,7 +1,7 @@
 ---
 title: "Test pickle"
 post_status: draft
-post_excerpt: "A simple tutorial using HTML and JavaScript."
+post_excerpt: "A simple tutorial using HTML and JavaScripts."
 taxonomy:
   category:
     - web-development
@@ -17,3 +17,4 @@ hello this Declaring Variables with `let`
 
 The `let` keyword allows you to create a variable that **can be changed** later later.
 456
+df
