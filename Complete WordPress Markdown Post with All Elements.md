@@ -80,9 +80,14 @@ This is a paragraph with a [link to Google](https://www.google.com) and an image
 Here’s a centered image using inline HTML:
 
 <p align="center">
-  <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png?text=Centered+Image" alt="Centered Image Example" width="400" height="200">
+  <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png?text=Centered+Image" alt="Centered Image Example" width="600" height="200">
 </p>
-
+<p align="left">
+  <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png?text=Centered+Image" alt="Centered Image Example" width="600" height="200">
+</p>
+<p align="right">
+  <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png?text=Centered+Image" alt="Centered Image Example" width="600" height="200">
+</p>
 This text comes after the image.
 
 
