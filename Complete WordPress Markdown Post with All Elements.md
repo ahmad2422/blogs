@@ -76,6 +76,17 @@ Here's a line with ~~strikethrough text~~ and ==highlighted text== (if supported
 
 This is a paragraph with a [link to Google](https://www.google.com) and an image: ![WordPress Logo](https://s.w.org/style/images/about/WordPress-logotype-standard.png)
 
+
+Here’s a centered image using inline HTML:
+
+<p align="center">
+  <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png?text=Centered+Image" alt="Centered Image Example" width="400" height="200">
+</p>
+
+This text comes after the image.
+
+
+
 ## List Examples
 
 ### Unordered List
