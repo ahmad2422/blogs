@@ -13,7 +13,7 @@ taxonomy:
     - cloud
 ---
 
-hello this Declaring Variables with `let` best 561561518518 is best
+hello this Declaring Variables with `let` best 561561518518 is best and good
 
 The `let` keyword allows you to create a variable that **can be changed** later later.
 456
