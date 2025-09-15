@@ -74,7 +74,7 @@ This paragraph demonstrates **bold text**, *italic text*, and ***bold and italic
 
 Here's a line with ~~strikethrough text~~ and ==highlighted text== (if supported).
 
-This is a paragraph with a [link to Google](https://www.google.com) and an image: ![WordPress Logo](https://s.w.org/style/images/about/WordPress-logotype-standard.png)
+This is a paragraph with a [link to Google](https://www.google.com) 
 
 
 Here’s a centered image using inline HTML:
@@ -82,12 +82,7 @@ Here’s a centered image using inline HTML:
 <p align="center">
   <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png?text=Centered+Image" alt="Centered Image Example" width="600" height="200">
 </p>
-<p align="left">
-  <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png?text=Centered+Image" alt="Centered Image Example" width="600" height="200">
-</p>
-<p align="right">
-  <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png?text=Centered+Image" alt="Centered Image Example" width="600" height="200">
-</p>
+
 This text comes after the image.
 
 
