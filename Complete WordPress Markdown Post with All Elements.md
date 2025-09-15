@@ -82,6 +82,19 @@ Here’s a centered image using inline HTML:
 <p align="center">
   <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png?text=Centered+Image" alt="Centered Image Example" width="600" height="200">
 </p>
+![Cookbook AI Edition](https://github.com/ahmad2422/blogs/raw/main/_images/cookbook-ai-edition.jpg)
+<p align="center">
+  <img src="https://github.com/ahmad2422/blogs/raw/main/_images/cookbook-ai-edition.jpg" 
+       alt="Cookbook AI Edition" 
+       width="400" height="250">
+</p>
+<p align="center">
+  <img src="https://github.com/ahmad2422/blogs/raw/main/_images/cookbook-ai-edition.jpg" 
+       alt="Cookbook AI Edition" 
+       style="max-width:100%; height:auto;" />
+</p>
+
+
 
 This text comes after the image.
 
